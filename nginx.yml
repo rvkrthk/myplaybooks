@@ -1,5 +1,5 @@
 ---
-- hosts: servers
+- hosts: 161.85.108.4
   become: yes
   become_user: root
   tasks:
